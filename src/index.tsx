@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./main.css";
 
 const App = () => {
-  return <p className="text-5xl text-center text-sky-500">Hello World!</p>;
+  return <p className="text-5xl text-center text-sky-500">Hello mom!</p>;
 };
 
 const container = document.getElementById("root");
